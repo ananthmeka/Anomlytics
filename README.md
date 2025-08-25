@@ -1,4 +1,11 @@
 # Anamalitics
+
+execute the streamlit application by executing the command 
+   python3 -m streamlit run streamlit-app-single-feature.py
+
+The Tool Contains four tabs 
+<img width="1583" height="305" alt="Screenshot 2025-08-25 at 7 25 12 PM" src="https://github.com/user-attachments/assets/dac183e7-e824-4719-9e95-ced87fd3d4bc" />
+
 Step-by-Step Workflow
 
     📊 GENERATE Tab - Generate Data:
