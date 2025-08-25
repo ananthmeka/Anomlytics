@@ -1,6 +1,7 @@
 # Anomlytics
 
 execute the streamlit application by executing the command 
+
    python3 -m streamlit run streamlit-app-single-feature.py
 
 The Tool Contains four tabs 
